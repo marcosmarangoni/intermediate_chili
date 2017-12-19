@@ -22,6 +22,7 @@
 #include "Game.h"
 #include "ChiliException.h"
 
+// Risotto changes
 int WINAPI wWinMain( HINSTANCE hInst,HINSTANCE,LPWSTR pArgs,INT )
 {
 	try
